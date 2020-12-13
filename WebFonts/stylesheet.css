@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Lumen';
+    src: url('Lumen-Bold.eot');
+    src: url('Lumen-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Lumen-Bold.woff2') format('woff2'),
+        url('Lumen-Bold.woff') format('woff'),
+        url('Lumen-Bold.ttf') format('truetype'),
+        url('Lumen-Bold.svg#Lumen-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lumen';
+    src: url('Lumen-Regular.eot');
+    src: url('Lumen-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Lumen-Regular.woff2') format('woff2'),
+        url('Lumen-Regular.woff') format('woff'),
+        url('Lumen-Regular.ttf') format('truetype'),
+        url('Lumen-Regular.svg#Lumen-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lumen';
+    src: url('Lumen-BoldItalic.eot');
+    src: url('Lumen-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Lumen-BoldItalic.woff2') format('woff2'),
+        url('Lumen-BoldItalic.woff') format('woff'),
+        url('Lumen-BoldItalic.ttf') format('truetype'),
+        url('Lumen-BoldItalic.svg#Lumen-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Lumen';
+    src: url('Lumen-Italic.eot');
+    src: url('Lumen-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Lumen-Italic.woff2') format('woff2'),
+        url('Lumen-Italic.woff') format('woff'),
+        url('Lumen-Italic.ttf') format('truetype'),
+        url('Lumen-Italic.svg#Lumen-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
